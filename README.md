@@ -9,13 +9,22 @@
 
 > *(Add screenshots of your running application here for internship submission)*
 
-![Screenshot 2026-06-16 172614.png](../screenshot/Screenshot%202026-06-16%20172614.png)
-![Screenshot 2026-06-16 172039.png](../screenshot/Screenshot%202026-06-16%20172039.png)
-![Screenshot 2026-06-16 172022.png](../screenshot/Screenshot%202026-06-16%20172022.png)
-![Screenshot 2026-06-16 172003.png](../screenshot/Screenshot%202026-06-16%20172003.png)
-![Screenshot 2026-06-16 171943.png](../screenshot/Screenshot%202026-06-16%20171943.png)| Dashboard | Add Volunteer | Volunteer List |
-|-----------|--------------|----------------|
+## 📸 Screenshots
 
+### Dashboard
+![Dashboard](screenshot/Screenshot%202026-06-16%20171943.png)
+
+### Add Volunteer
+![Add Volunteer](screenshot/Screenshot%202026-06-16%20172003.png)
+
+### All Volunteers
+![All Volunteers](screenshot/Screenshot%202026-06-16%20172022.png)
+
+### Search Volunteer
+![Search Volunteer](screenshot/Screenshot%202026-06-16%20172039.png)
+
+### Reports & Analytics
+![Reports](screenshot/Screenshot%202026-06-16%20172614.png)
 
 ---
 
