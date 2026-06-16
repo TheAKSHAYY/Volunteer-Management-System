@@ -190,10 +190,10 @@ NPF-1002|Priya Mehta|priya@outlook.com|8765432109|Mumbai|Design, Social Media|16
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**[akshay sharma ]**
 Java Development Intern — NayePankh Foundation
-📧 [your.email@example.com]
-🔗 [LinkedIn / GitHub Profile]
+📧 [akshay sharma]
+🔗 [https://www.linkedin.com/in/akkshay-sharma/]
 
 ---
 
