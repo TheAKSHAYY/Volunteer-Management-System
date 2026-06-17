@@ -195,4 +195,3 @@ Java Development Intern — NayePankh Foundation
 ## 📄 License
 
 This project is created for educational and internship submission purposes.
-NayePankh Foundation — *Giving wings to new beginnings* 🌿
