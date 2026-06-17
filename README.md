@@ -3,11 +3,6 @@
 > A Java Swing desktop application to digitally manage volunteer records for NayePankh Foundation NGO.
 > Built as a Java Development Internship project demonstrating OOP, Collections, File Handling, GUI, and CRUD operations.
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots of your running application here for internship submission)*
 
 ## 📸 Screenshots
 
